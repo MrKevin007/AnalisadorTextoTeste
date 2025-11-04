@@ -1,0 +1,14 @@
+{
+  "name": "analisadortexto",
+  "version": "1.0.0",
+  "description": "projeto analisador de texto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Sem testes\" && exit 0"
+  },
+  "author": "fatec",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
